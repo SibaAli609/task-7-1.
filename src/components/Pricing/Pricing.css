@@ -1,0 +1,55 @@
+.class-2{
+    width: 160px;
+    border: 1px solid rgba(247, 242, 242, 0.356);
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 30px;
+    height: 45px;
+    padding-top: 16px;
+}
+.p-1{
+   border:2px solid blue;
+   background-color: blue;
+   color: white;
+   border-radius: 15px;
+   padding: 6px;
+}
+.main img{
+    color: blue;
+}
+.main{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 11px;
+}
+.main-p3{
+    color: blue;
+}
+.s-pracing{
+    position: relative;
+    margin-top: 40px;
+}
+.img1-pric{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 40px;
+}
+.card-pricing{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    margin:22px 22px 22px 22px;
+    gap: 30px;
+    
+}
+.pri-img2{
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    width: 100px;
+}
